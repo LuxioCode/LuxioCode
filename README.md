@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @LuxioCode
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: no.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love coding
